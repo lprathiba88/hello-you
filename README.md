@@ -1,10 +1,10 @@
-*** Hello You Application
+## Hello You Application
 
-** March 24, 2016
+### March 24, 2016
 
 My first version controlled project
 
-*Git
-*Java
+* Git
+* Java
 
 [Prathiba Lingappan](http://sqasolution.com) 
